@@ -1,1 +1,4 @@
-Hello this is first pipeline
+#!/bin/bash
+
+# example of using arguments to a script
+echo "my first pipeline"
